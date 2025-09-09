@@ -1,0 +1,5 @@
+{
+  "name": "AI Builder UI",
+  "description": "An AI-powered UI builder that generates React applications from prompts or by recreating existing websites from a URL. Features a live preview, code editor, and interactive chat for refinement.",
+  "requestFramePermissions": []
+}
